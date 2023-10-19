@@ -95,7 +95,7 @@ The visuals I used in creating these reports are: Cards, KPIs, Matrix, Table, Sl
 ![](Customer_report.png)
 
 **Product report**
-![](Product report.png)
+![](Product_report.png)
 
 **Geographical Report about Customers**
 ![](map_report.png)
@@ -109,11 +109,14 @@ In the product category, sales of bike generated the highest revenue of $23.6m w
 
 ### Key Product Performance:
 The most-ordered product is the Water Bottle - 30 oz.
+
 The most profitable product is the Mountain-200 Black.
+
 The most-returned product is the Road-650 Red.
 
 ### Customer Insights:
 Total Revenue per customer is $1.4k. 
+
 Top Customer by Revenue is Mr. Maurice Shan.
 
 ### Yearly Performance:
@@ -121,6 +124,7 @@ In the three years covered by this analysis, 2021 recorded the highest revenue o
 
 ### Regional Performance:
 The USA generated the highest revenue of $7.9 m with a total of 7,235 customers.
+
 Australia followed closely with $7.4 m in revenue and 3,480 customers.
 
 ### Customer and Revenue Trends:
