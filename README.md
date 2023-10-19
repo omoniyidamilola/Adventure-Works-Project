@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Adventure Works is a fictitious company that produces bicycles, bicycle components, and accessories for commercial markets in Europe, North America and Pacific.
+Adventure Works is a imaginary company that produces bicycles, bicycle components, and accessories for commercial markets in Europe, North America and Pacific.
 
 ## Data Sourcing 
 The dataset for this project was downloaded from Maven Analytics website.
@@ -57,7 +57,7 @@ The following Power BI features were incorporated:
   
 ## Data Transformation/Modelling
 
-After extracting Adventure Works dataset, I launched it into Power Bi and import each tables. After importing each tables, I loaded it into Power Query Editor and performed some cleaning on the dataset like renaming, replacing values, checking for duplicates and null values. I merged the sales tables for 2020, 2021 and 2022 and renamed it Sales data. After cleaning the data, I make sure the dataset is 100% valid then I close and apply. Then proceeded to the Model view to ensure that the data was modelled properly. I create connection between the tables using many to one relationship. The schema for this project is a Snow-flake schema.
+After extracting Adventure Works dataset, I launched it into Power Bi and import each tables. After importing each tables, I loaded it into Power Query Editor and performed some cleaning on the dataset like renaming, replacing values, checking for duplicates and null values. I merged the sales tables for 2020, 2021 and 2022 and renamed it Sales data. After cleaning the dataset, I make sure the dataset is 100% valid then I close and apply. Then proceeded to the Model view to ensure that the data was modelled properly. I create connection between the tables using many to one relationship. The schema for this project is a Snow-flake schema.
 
 ## Data Schema 
 
@@ -146,6 +146,6 @@ Revenue trends show fluctuations from December 29, 2019 with $4k revenue. Januar
 - Regional Focus: Invest in high-performing regions like the USA and Australia. Explore opportunities to expand and optimize operations in these regions. Consider analyzing regional customer behavior to tailor marketing and sales strategies.
 - Monitoring Trend: Continue monitoring and analyzing these trends to understand the factors contributing to these spikes and identify opportunities for growth. Maintain ongoing monitoring of customer and revenue trends to adapt to changing market dynamics.
 
-Thanks for following through.👍
+Thanks for following through👍
 
 
